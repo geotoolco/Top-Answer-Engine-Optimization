@@ -188,6 +188,7 @@ These are agencies where AEO is a core service, not an add-on. If you are lookin
 - [GenOptima](https://www.gen-optima.com/) - A GEO/AEO strategy agency with a structured three-layer methodology covering Foundation, Content, and Authority. Focused on improving citation rates through data and intent analysis.
 - [Metronyx / AEO God Mode](https://aeogodmode.io/) - The agency behind the AEO God Mode WordPress plugin. Offers full-service AEO strategy, schema implementation, content structuring, and monthly citation reporting.
 - [Minuttia](https://minuttia.com/) - A Google and AI search strategy agency that specializes in integrating LLM visibility with AEO. They position themselves as a comprehensive ecosystem rather than a standalone service.
+- [Revolead](https://revolead.ai) - Done-for-you AEO/GEO and B2B lead generation. Maps buyer-intent prompts, builds the pages that win answers in ChatGPT, Perplexity, Gemini, and Google AI Overviews, and ties AI visibility back to qualified enquiries — covering both the visibility and conversion layers. Multilingual delivery.
 
 ### Full-Service Agencies with Strong AEO Practices
 
