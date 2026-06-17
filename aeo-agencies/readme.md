@@ -23,6 +23,9 @@ The agency behind the AEO God Mode WordPress plugin. Full-service AEO strategy, 
 **[Vume](https://vume.ai/aeo-agency/)**
 Paris & Lisbon-based. Platform-specific optimization for OpenAI, Claude, and Perplexity alongside AI chatbots and automation. One of the few agencies that handles both AEO visibility and the conversion layer.
 
+**[Revolead](https://revolead.ai)**
+Done-for-you AEO/GEO and B2B lead generation. Maps buyer-intent prompts, builds the pages that win answers in ChatGPT, Perplexity, Gemini, and Google AI Overviews, and ties AI visibility back to qualified enquiries — covering both the visibility and conversion layers. Multilingual delivery.
+
 ---
 
 ## Full-Service Agencies with AEO Practices
