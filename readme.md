@@ -88,6 +88,7 @@ There are multiple types of AEO platforms and tools that can help you improve yo
 - [Akii](https://akii.com/) - An AI Search Intelligence Platform that tracks Inclusion Rate, Share of Voice, Sentiment, and Brand Understanding. Built around a knowledge graph-first approach.
 - [AEO Vision](https://aeo.vision/) - Covers a broad range of AI engines and tracks brand visibility across conversational results, with real-time monitoring of how your brand is perceived.
 - [ZipTie](https://ziptie.ai/) - Monitors brand visibility across generative AI platforms and gives you detailed breakdowns by platform and by prompt.
+- [LLM Pulse](https://llmpulse.ai/) - All-in-one AI search platform that tracks brand visibility, mentions, citations, sentiment, and share of voice across ChatGPT, Perplexity, Gemini, and Google AI Overviews, plus AI traffic analytics and actionable recommendations.
 
 ---
 
