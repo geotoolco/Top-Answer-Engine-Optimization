@@ -21,6 +21,7 @@ Covers ChatGPT, Perplexity, Gemini, Claude, Copilot, and Grok. Prompt cluster ma
 
 | Platform | Best For | Pricing |
 |---|---|---|
+| [AnswerLens](https://app.sfdj.net/) | Public-evidence audits for B2B SaaS sites: crawlable URLs, llms.txt, pricing, comparison, and proof pages | Free scan / $79 report |
 | [AthenaHQ](https://www.athenahq.ai/) | Unified AEO scoring, ex-Google/DeepMind team, Y Combinator-backed | Custom |
 | [Bluefish AI](https://bluefishai.com/) | Brand safety, source attribution, "source graph" mapping | Enterprise |
 | [Get Cited](https://get-cited.ai/) | Done-for-you citation building on high-DA domains | From $99/mo |
