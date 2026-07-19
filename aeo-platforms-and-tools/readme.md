@@ -23,6 +23,7 @@ Covers ChatGPT, Perplexity, Gemini, Claude, Copilot, and Grok. Prompt cluster ma
 |---|---|---|
 | [AthenaHQ](https://www.athenahq.ai/) | Unified AEO scoring, ex-Google/DeepMind team, Y Combinator-backed | Custom |
 | [Bluefish AI](https://bluefishai.com/) | Brand safety, source attribution, "source graph" mapping | Enterprise |
+| [CiteReady](https://citeready.sprytools.com/) | Free GEO audit: checks AI crawler access, llms.txt, JSON-LD schema, content citability, and technical SEO — instant 0–100 AI Search Readiness score, no signup | Free (3/day); Pro €2.99/mo |
 | [Get Cited](https://get-cited.ai/) | Done-for-you citation building on high-DA domains | From $99/mo |
 | [GEOmetrics](https://trygeometrics.com/) | Hallucination detection and fixing | — |
 | [Goodie AI](https://higoodie.com/) | Technical AEO with schema emphasis, smaller teams | Entry-level |
